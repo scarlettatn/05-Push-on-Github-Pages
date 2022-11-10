@@ -67,7 +67,7 @@ a {
   padding-left: 0px;
   font-size: 50px;
 }
-ul > li {
+ul li {
   display: inline-block;
   list-style-type: none;
   font-size: 30px;
